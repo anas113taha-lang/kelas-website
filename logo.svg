@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="ku">
+<head>
+  <meta charset="UTF-8">
+  <title>کڵاسی من لە پەیمانگا</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>کڵاسی [ناوی کڵاسەکەت]</h1>
+    <p>پەیمانگا: [ناوی پەیمانگاکەت]</p>
+  </header>
+
+  <section>
+    <h2>مەعلوماتی کڵاس</h2>
+    <ul>
+      <li>قوتابیان: [ژمارە]</li>
+      <li>مامۆستا: [ناو]</li>
+      <li>ساڵی خوێندن: [2024-2025]</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>وێنەی کڵاس</h2>
+    <img src="class-photo.jpg" alt="وێنەی کڵاس" width="600">
+  </section>
+
+  <footer>
+    <p>دراوە بە خۆڕایی بە GitHub Pages</p>
+  </footer>
+</body>
+</html>
